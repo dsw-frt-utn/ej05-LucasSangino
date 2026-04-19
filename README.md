@@ -3,4 +3,4 @@
 ## Ejercicio N° 5
 Datos del alumno: 
 Legajo: 57990
-Apellido yNombre: Sangino Lucas Daniel
+Apellido y Nombre: Sangino Lucas Daniel
